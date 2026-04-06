@@ -85,9 +85,9 @@
 
         // Preload SCREAMS (public domain horror audio)
         const screams = [
-            'https://www.soundjay.com/misc/sounds/ghost-1.mp3',
-            'https://freesound.org/data/previews/153/153380_2673929-lq.mp3',
-            'https://freesound.org/data/previews/245/245645_4101564-lq.mp3'
+            'https://www.myinstants.com/media/sounds/scream.mp3',
+            'https://www.myinstants.com/media/sounds/scream.mp3',
+            'https://www.myinstants.com/media/sounds/scream.mp3'
         ].map(url => {
             const audio = new Audio(url);
             audio.preload = 'auto';
