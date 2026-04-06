@@ -104,7 +104,7 @@
         setTimeout(() => {
             msg1.style.opacity = '0';
             msg2.style.opacity = '1';
-            msg2.style.animation = 'glow 0.8s ease-in-out infinite alternate, bounce 0.8s ease-in-out 0.2s';
+            msg2.style.animation = 'glow 0.6s ease-in-out infinite alternate, bounce 0.5s ease-in-out 0.2s';
         }, 3000);
 
         setTimeout(() => {
