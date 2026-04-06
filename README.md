@@ -73,7 +73,7 @@
 </head>
 <body>
     <div class="message" id="message1">WELCOME</div>
-    <div class="message" id="message2">GOT U TWICE</div>
+    <div class="message" id="message2">GOT U</div>
     <div class="scare" id="scare"></div>
     <div style="position:fixed;bottom:20px;color:#fff;z-index:999;font-size:20px;">Click anywhere to play animation!</div>
     
